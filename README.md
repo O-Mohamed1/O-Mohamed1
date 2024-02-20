@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @O-Mohamed1
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning how to code with Vincent (youtube) and App Academy's free online bootcamp.
+- 👋 Hi, I’m Mohamed
+- 👀 I learned the basics of web development by following tutorials by CodingWithVincent on youtube, then I self-studied full-stack development with mostly javascript code through AppAcademy's free online bootcamp.
+- 🌱 Currently, I am learning C++ as a freshman in college, pursuing a BS in Computer Science.
 
 <!---
 O-Mohamed1/O-Mohamed1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
