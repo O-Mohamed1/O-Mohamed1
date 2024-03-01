@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohamed
-- 👀 I learned the basics of web development by following tutorials by CodingWithVincent on youtube, then I self-studied full-stack development with mostly javascript code through AppAcademy's free online bootcamp.
+- 👀 I learned the basics of web development by following tutorials by CodingWithVincent on youtube, then I self-studied development with mostly javascript code through AppAcademy's free online bootcamp.
 - 🌱 Currently, I am learning C++ as a freshman in college, pursuing a BS in Computer Science.
 
 <!---
